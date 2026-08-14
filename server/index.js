@@ -44,6 +44,22 @@ app.use('/api/problems', problemRoutes);
 app.use('/api/progress', progressRoutes);
 app.use('/api/admin', adminRoutes);
 
+// Root endpoint
+app.get('/', (req, res) => {
+  res.json({
+    status: 'ok',
+    message: 'CodeSolver Backend API is active.',
+    endpoints: {
+      health: '/api/health',
+      auth: '/api/auth',
+      topics: '/api/topics',
+      problems: '/api/problems',
+      progress: '/api/progress',
+      admin: '/api/admin'
+    }
+  });
+});
+
 // Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', time: new Date().toISOString(), service: 'CodeSolver Backend' });
