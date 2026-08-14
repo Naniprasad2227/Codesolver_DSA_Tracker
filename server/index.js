@@ -1,0 +1,69 @@
+const express = require('express');
+const cookieParser = require('cookie-parser');
+const cors = require('cors');
+const path = require('path');
+require('dotenv').config();
+
+const connectDB = require('./db/database');
+const Topic = require('./models/Topic');
+const seedDatabase = require('./db/seed');
+
+const authRoutes = require('./routes/auth');
+const topicRoutes = require('./routes/topics');
+const problemRoutes = require('./routes/problems');
+const progressRoutes = require('./routes/progress');
+const adminRoutes = require('./routes/admin');
+
+const app = express();
+const PORT = process.env.PORT || 3001;
+
+// Middleware
+app.use(express.json());
+app.use(cookieParser());
+app.use(cors({
+  origin: ['http://localhost:5173', 'http://127.0.0.1:5173', 'http://localhost:3000'],
+  credentials: true
+}));
+
+// API routes
+app.use('/api/auth', authRoutes);
+app.use('/api/topics', topicRoutes);
+app.use('/api/problems', problemRoutes);
+app.use('/api/progress', progressRoutes);
+app.use('/api/admin', adminRoutes);
+
+// Health check
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok', time: new Date().toISOString() });
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error('Unhandled server error:', err);
+  res.status(500).json({ message: 'An unexpected server error occurred.' });
+});
+
+// Connect to Database & Start Server
+const startServer = async () => {
+  try {
+    await connectDB();
+
+    // Auto-seed if database is empty
+    const topicCount = await Topic.countDocuments();
+    if (topicCount === 0) {
+      console.log('Database empty: Seeding topics and problems...');
+      await seedDatabase();
+    } else {
+      console.log(`Database populated with ${topicCount} topics.`);
+    }
+
+    app.listen(PORT, () => {
+      console.log(`CodeSolver backend server running on http://localhost:${PORT}`);
+    });
+  } catch (error) {
+    console.error('Failed to start server:', error);
+    process.exit(1);
+  }
+};
+
+startServer();

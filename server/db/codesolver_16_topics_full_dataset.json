@@ -1,0 +1,1676 @@
+[
+  {
+    "topic_problem_number": 1,
+    "topic": "Arrays",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/two-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/key-pair5616/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Arrays",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Arrays",
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/check-if-array-contains-duplicates/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Arrays",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-subarray/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Arrays",
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/move-zeroes/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Arrays",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Arrays",
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/rotate-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Arrays",
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/merge-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Arrays",
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/majority-element/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Arrays",
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/missing-number/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Arrays",
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/single-number/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-every-other-element-appears-twice/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Arrays",
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 13,
+    "topic": "Arrays",
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 14,
+    "topic": "Arrays",
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-duplicate-in-an-array/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 15,
+    "topic": "Arrays",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 16,
+    "topic": "Arrays",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 17,
+    "topic": "Arrays",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 18,
+    "topic": "Arrays",
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/spiral-matrix/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 19,
+    "topic": "Arrays",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/merge-intervals/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/overlapping-intervals/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 20,
+    "topic": "Arrays",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/3sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/three-sum-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 21,
+    "topic": "Arrays",
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/4sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 22,
+    "topic": "Arrays",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Strings",
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-anagram/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Strings",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Strings",
+    "title": "Reverse String",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/reverse-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/reverse-string/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Strings",
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Strings",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/longest-common-prefix/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Strings",
+    "title": "First Unique Character in a String",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Strings",
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/is-subsequence/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/is-subsequence-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Strings",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/length-of-the-longest-substring-without-repeating-characters/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Strings",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/group-anagrams/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/print-anagrams-together/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Strings",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Strings",
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/palindromic-substrings/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/count-palindrome-sub-strings-string/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Strings",
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/string-compression/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/string-compression/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 13,
+    "topic": "Strings",
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/smallest-window-containing-all-characters-of-another-string/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Two Pointers",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/pair-with-given-sum-in-sorted-array-two-sum-ii/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Two Pointers",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Two Pointers",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Two Pointers",
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/move-zeroes/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Two Pointers",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/container-with-most-water/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/container-with-most-water0535/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Two Pointers",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/3sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/three-sum-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Two Pointers",
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/4sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Two Pointers",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Two Pointers",
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/sort-colors/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Two Pointers",
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/remove-element/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/remove-element/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Two Pointers",
+    "title": "Boats to Save People",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/boats-to-save-people/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/minimum-boats-to-save-people/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Sliding Window",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/maximum-average-subarray-of-size-k/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Sliding Window",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Sliding Window",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/length-of-the-longest-substring-without-repeating-characters/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Sliding Window",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/longest-substring-with-same-characters-after-replacement/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Sliding Window",
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/permutation-in-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/check-if-permutation-substring-of-another-string/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Sliding Window",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Sliding Window",
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/smallest-window-containing-all-characters-of-another-string/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Sliding Window",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/maximize-number-of-1s-in-binary-array-by-changing-at-most-k-0s/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Sliding Window",
+    "title": "Fruit Into Baskets",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/fruit-into-baskets/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/maximum-length-subarray-with-at-most-two-distinct-elements/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Sliding Window",
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Hashing",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/two-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/key-pair5616/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Hashing",
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/check-if-array-contains-duplicates/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Hashing",
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-anagram/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Hashing",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/group-anagrams/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/print-anagrams-together/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Hashing",
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/majority-element/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Hashing",
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/happy-number/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/happy-number/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Hashing",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Hashing",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Hashing",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Hashing",
+    "title": "4Sum II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/4sum-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/4sum-count/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Linked List",
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Linked List",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Linked List",
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Linked List",
+    "title": "Linked List Cycle II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Linked List",
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Linked List",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Linked List",
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Linked List",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Linked List",
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Linked List",
+    "title": "Reorder List",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/reorder-list/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/reorder-list/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Linked List",
+    "title": "Copy List With Random Pointer",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Linked List",
+    "title": "Merge K Sorted Lists",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 13,
+    "topic": "Linked List",
+    "title": "Reverse Nodes in K-Group",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Stack",
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/valid-parentheses/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Stack",
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/min-stack/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Stack",
+    "title": "Implement Stack Using Queues",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/stack-using-two-queues/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Stack",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/evaluation-of-postfix-expression/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Stack",
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/daily-temperatures/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Stack",
+    "title": "Next Greater Element I",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-i/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Stack",
+    "title": "Next Greater Element II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/next-greater-element-circular-array/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Stack",
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/remove-k-digits/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/remove-k-digits-to-make-smallest-number/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Stack",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/max-rectangle/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Stack",
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/decode-string/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/decode-string-recursively-encoded-count-followed-substring/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Binary Search",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-search/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Binary Search",
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/search-insert-position/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/search-insert-position-of-k-in-a-sorted-array/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Binary Search",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Binary Search",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Binary Search",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Binary Search",
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Binary Search",
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/find-peak-element/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/peak-element/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Binary Search",
+    "title": "Sqrt(x)",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/sqrtx/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/square-root/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Binary Search",
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/koko-eating-bananas/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Binary Search",
+    "title": "Capacity to Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/capacity-to-ship-packages-within-d-days/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Binary Search",
+    "title": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/split-array-largest-sum/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Recursion & Backtracking",
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subsets/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/power-set4302/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Recursion & Backtracking",
+    "title": "Subsets II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/subsets-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/subsets-with-duplicates/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Recursion & Backtracking",
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/permutations/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Recursion & Backtracking",
+    "title": "Permutations II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/permutations-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/permutations-of-a-string/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Recursion & Backtracking",
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Recursion & Backtracking",
+    "title": "Combination Sum II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/combination-sum-ii/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Recursion & Backtracking",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Recursion & Backtracking",
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/generate-parentheses/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Recursion & Backtracking",
+    "title": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Recursion & Backtracking",
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/n-queens/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/n-queen-problem0315/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Recursion & Backtracking",
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/sudoku-solver/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Recursion & Backtracking",
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/word-search/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/word-search/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Trees",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/0",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Trees",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/same-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/check-if-two-trees-are-identical/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Trees",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/invert-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/mirror-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Trees",
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/symmetric-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/symmetric-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Trees",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/level-order-traversal/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Trees",
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/preorder-traversal/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Trees",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/inorder-traversal/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Trees",
+    "title": "Binary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/postorder-traversal/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Trees",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Trees",
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Trees",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Trees",
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/path-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 13,
+    "topic": "Trees",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 14,
+    "topic": "Trees",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 15,
+    "topic": "Trees",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Heap / Priority Queue",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-an-array/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Heap / Priority Queue",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-matrix/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Heap / Priority Queue",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Heap / Priority Queue",
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/last-stone-weight/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/last-stone-weight/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Heap / Priority Queue",
+    "title": "K Closest Points to Origin",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/k-closest-points-to-origin/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Heap / Priority Queue",
+    "title": "Merge K Sorted Lists",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Heap / Priority Queue",
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Heap / Priority Queue",
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/task-scheduler/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/task-scheduler/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Heap / Priority Queue",
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/minimum-number-platforms-required-railwaybus-station/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Greedy",
+    "title": "Assign Cookies",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/assign-cookies/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/assign-mice-to-holes/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Greedy",
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/jump-game/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/jump-game/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Greedy",
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/jump-game-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Greedy",
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/gas-station/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Greedy",
+    "title": "Candy",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/candy/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/candy-distribution/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Greedy",
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/partition-labels/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/partition-a-string-such-that-the-parts-have-at-least-one-character/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Greedy",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Greedy",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/minimum-number-of-arrows-to-burst-balloons/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Greedy",
+    "title": "Activity Selection",
+    "difficulty": "Medium",
+    "leetcode_url": "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Greedy",
+    "title": "Fractional Knapsack",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/fractional-knapsack/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Dynamic Programming",
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/climbing-stairs/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Dynamic Programming",
+    "title": "Min Cost Climbing Stairs",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/min-cost-climbing-stairs/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Dynamic Programming",
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/house-robber/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Dynamic Programming",
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/house-robber-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/maximum-sum-such-that-no-two-elements-are-adjacent/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Dynamic Programming",
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/coin-change/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/number-of-coins1824/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Dynamic Programming",
+    "title": "Coin Change II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/coin-change-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/coin-change2448/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Dynamic Programming",
+    "title": "Perfect Squares",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/perfect-squares/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/minimum-number-of-squares-whose-sum-equals-n/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Dynamic Programming",
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/word-break/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/word-break1352/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Dynamic Programming",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Dynamic Programming",
+    "title": "Partition Equal Subset Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Dynamic Programming",
+    "title": "Unique Paths",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/unique-paths/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/number-of-paths-in-a-matrix-with-k-steps/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 12,
+    "topic": "Dynamic Programming",
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/minimum-path-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/minimum-cost-path/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 13,
+    "topic": "Dynamic Programming",
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 14,
+    "topic": "Dynamic Programming",
+    "title": "Edit Distance",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/edit-distance/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/edit-distance3702/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 15,
+    "topic": "Dynamic Programming",
+    "title": "0/1 Knapsack",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 16,
+    "topic": "Dynamic Programming",
+    "title": "Target Sum",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/target-sum/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/target-sum/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Graphs",
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-islands/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Graphs",
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "leetcode_url": "https://leetcode.com/problems/flood-fill/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Graphs",
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/clone-graph/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/clone-graph/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Graphs",
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/course-schedule/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Graphs",
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/course-schedule/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Graphs",
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/rotting-oranges/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/rotten-oranges2536/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Graphs",
+    "title": "Number of Provinces",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-provinces/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 8,
+    "topic": "Graphs",
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/surrounded-regions/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 9,
+    "topic": "Graphs",
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/word-ladder/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/word-ladder/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 10,
+    "topic": "Graphs",
+    "title": "Is Graph Bipartite?",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/is-graph-bipartite/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/bipartite-graph/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 11,
+    "topic": "Graphs",
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/network-delay-time/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/network-delay-time/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Union Find / DSU",
+    "title": "Number of Provinces",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-provinces/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Union Find / DSU",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/connected-components-in-an-undirected-graph/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Union Find / DSU",
+    "title": "Redundant Connection",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/redundant-connection/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/union-find/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Union Find / DSU",
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/accounts-merge/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/accounts-merge/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Union Find / DSU",
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/most-stones-removed-with-same-row-or-column/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Union Find / DSU",
+    "title": "Satisfiability of Equality Equations",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/satisfiability-of-equality-equations/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/satisfiability-of-equality-equations/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 7,
+    "topic": "Union Find / DSU",
+    "title": "Kruskal's Algorithm",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 1,
+    "topic": "Trie",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0653/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 2,
+    "topic": "Trie",
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/design-add-and-search-words-data-structure/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 3,
+    "topic": "Trie",
+    "title": "Word Search II",
+    "difficulty": "Hard",
+    "leetcode_url": "https://leetcode.com/problems/word-search-ii/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/word-boggle4143/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 4,
+    "topic": "Trie",
+    "title": "Replace Words",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/replace-words/",
+    "gfg_url": "https://www.geeksforgeeks.org/dsa/replace-words/",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 5,
+    "topic": "Trie",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1",
+    "solved": false
+  },
+  {
+    "topic_problem_number": 6,
+    "topic": "Trie",
+    "title": "Longest Word in Dictionary",
+    "difficulty": "Medium",
+    "leetcode_url": "https://leetcode.com/problems/longest-word-in-dictionary/",
+    "gfg_url": "https://www.geeksforgeeks.org/problems/longest-word-with-all-prefixes/1",
+    "solved": false
+  }
+]
