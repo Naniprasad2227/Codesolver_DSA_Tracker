@@ -71,6 +71,8 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: 'An unexpected server error occurred.' });
 });
 
+const User = require('./models/User');
+
 // Connect to Database & Start Server
 const startServer = async () => {
   try {
@@ -83,6 +85,20 @@ const startServer = async () => {
       await seedDatabase();
     } else {
       console.log(`Database populated with ${topicCount} topics.`);
+    }
+
+    // Auto-seed admin user if not exists
+    const adminUser = await User.findOne({ email: 'codesolver@gmail.com' });
+    if (!adminUser) {
+      console.log('Creating default admin account...');
+      const newAdmin = new User({
+        name: 'CodeSolver Admin',
+        email: 'codesolver@gmail.com',
+        password_hash: 'I love you daddy@143',
+        role: 'admin'
+      });
+      await newAdmin.save();
+      console.log('✅ Admin user created: codesolver@gmail.com');
     }
 
     app.listen(PORT, () => {
