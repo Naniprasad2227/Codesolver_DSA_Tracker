@@ -12,17 +12,7 @@ CodeSolver is a **topic-wise DSA roadmap and progress tracker** featuring separa
 
 ---
 
-## 🔑 Admin Credentials
-
-| Name | Email | Password | Role |
-|---|---|---|---|
-| **CodeSolver Admin** | `codesolver@gmail.com` | `I love you daddy@143` | **Admin** (Exclusive Access to `/admin`) |
-
-*All other public registrations via `/register` will automatically be assigned standard **User** accounts with independent 0% starting progress.*
-
----
-
-## 🧭 Dashboard Separation
+## 🧭 Dashboard Roles & Access
 
 ### 1. 👤 User Dashboard (`/dashboard`)
 - **Independent Zero-State**: Newly registered users always start with **0 solved**, **0% progress**, **0 day streak**, and unchecked boxes.
@@ -58,12 +48,8 @@ npm run dev
 - Client: `http://localhost:5173`
 - Backend API: `http://localhost:3001`
 
-### 2. Useful Scripts
-- **Reset users & seed exclusive Admin**:
-  ```bash
-  node server/db/reset_users.js
-  ```
-- **Re-seed Problem Catalog (16 topics, 186 problems)**:
+### 2. Database Scripts
+- **Seed Problem Catalog (16 topics, 186 problems)**:
   ```bash
   npm run seed
   ```
