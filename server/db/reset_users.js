@@ -6,7 +6,7 @@ require('dotenv').config({ path: __dirname + '/../.env' });
 
 const resetUsersAndSeedAdmin = async () => {
   try {
-    const mongoUri = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/codesolver';
+    const mongoUri = process.env.MONGODB_URI || process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/codesolver';
     if (mongoose.connection.readyState === 0) {
       await mongoose.connect(mongoUri);
     }
