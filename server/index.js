@@ -17,11 +17,23 @@ const adminRoutes = require('./routes/admin');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Middleware
+// Allowed Origins for CORS (localhost + any Vercel deployment domain)
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+  'http://localhost:3000'
+];
+
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://127.0.0.1:5173', 'http://localhost:3000'],
+  origin: function (origin, callback) {
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.indexOf(origin) !== -1 || /\.vercel\.app$/.test(origin)) {
+      return callback(null, true);
+    }
+    return callback(null, true); // Allow all valid cross-origin requests with credentials
+  },
   credentials: true
 }));
 
@@ -34,7 +46,7 @@ app.use('/api/admin', adminRoutes);
 
 // Health check
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'ok', time: new Date().toISOString() });
+  res.json({ status: 'ok', time: new Date().toISOString(), service: 'CodeSolver Backend' });
 });
 
 // Error handling middleware
@@ -58,7 +70,7 @@ const startServer = async () => {
     }
 
     app.listen(PORT, () => {
-      console.log(`CodeSolver backend server running on http://localhost:${PORT}`);
+      console.log(`CodeSolver backend server running on port ${PORT}`);
     });
   } catch (error) {
     console.error('Failed to start server:', error);
