@@ -1,5 +1,13 @@
 const mongoose = require('mongoose');
+const dns = require('dns');
 require('dotenv').config();
+
+// Use reliable Google DNS servers if local/cloud DNS fails SRV lookups
+try {
+  dns.setServers(['8.8.8.8', '8.8.4.4']);
+} catch (e) {
+  // Ignore if DNS server configuration cannot be overridden
+}
 
 const connectDB = async () => {
   try {
